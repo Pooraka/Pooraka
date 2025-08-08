@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there 👋, I'm Hasendra
+I'm a recent Information Technology graduate from the University of Colombo School of Computing, now transitioning into a career in Software Engineering. I combine a fresh, modern technical skillset with over six years of professional experience in the banking industry, where I specialized in information system acquisition, testing, and process re-engineering.
 
-<!--
-**Pooraka/Pooraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is to leverage this unique blend of deep business insight and software development skills to build practical, efficient, and impactful applications.
 
-Here are some ideas to get you started:
+🚀 What I'm Currently Focused On
+I recently completed my final year project, a full-stack Tour Fleet Management System.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project: Tour Fleet Management System
+
+Description: A comprehensive web application built to digitize and automate the core operations of a tour bus rental company, solving critical issues like booking overlaps, poor financial tracking, and inefficient inventory management.
+
+Tech Stack: PHP, MySQL, JavaScript, HTML/CSS under an MVC architecture.
+
+🛠️ My Tech Stack
+Languages: PHP, JavaScript,jQuery, SQL, HTML5, CSS3
+
+Databases: MySQL
+
+Tools & Platforms: Git, GitHub, XAMPP
+
+Methodologies: MVC Architecture, Rational Unified Process (RUP), Agile
+
+Professional: Business Analysis, System Testing, Process Re-engineering, UAT
+
+📫 How to Reach Me
+LinkedIn: [https://www.linkedin.com/in/kdphasendra]
+
+I'm actively seeking new opportunities in Software Engineering. Feel free to connect or send me a message!
