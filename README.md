@@ -10,18 +10,12 @@ Project: Tour Fleet Management System
 
 Description: A comprehensive web application built to digitize and automate the core operations of a tour bus rental company, solving critical issues like booking overlaps, poor financial tracking, and inefficient inventory management.
 
-Tech Stack: PHP, MySQL, JavaScript, HTML/CSS under an MVC architecture.
-
 🛠️ My Tech Stack
-Languages: PHP, JavaScript,jQuery, SQL, HTML5, CSS3
+Languages: PHP, JavaScript,jQuery, SQL, HTML5, CSS3, Laravel
 
 Databases: MySQL
 
-Tools & Platforms: Git, GitHub, XAMPP
-
-Methodologies: MVC Architecture, Rational Unified Process (RUP), Agile
-
-Professional: Business Analysis, System Testing, Process Re-engineering, UAT
+Tools & Platforms: Git, GitHub, XAMPP, Herd
 
 📫 How to Reach Me
 LinkedIn: [https://www.linkedin.com/in/kdphasendra]
